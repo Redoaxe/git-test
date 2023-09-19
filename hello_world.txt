@@ -1,0 +1,2 @@
+print("Hello world")
+#but this is not a .py file, it's txt so this print function won't do anything
